@@ -1,0 +1,9 @@
+Freelancer ID,Name,Service Category,Hourly Rate,Rating,Experience,Location,Skills
+1,Alice Johnson,Web Development,50,4.8,5,USA,"HTML, CSS, JavaScript, React"
+2,Bob Smith,Data Science,75,4.9,7,UK,"Python, R, SQL, Machine Learning"
+3,Charlie Davis,Graphic Design,40,4.7,3,Canada,"Adobe Photoshop, Illustrator, Branding"
+4,David Lee,Content Writing,30,4.6,4,India,"SEO, Copywriting, Blog Writing"
+5,Eve Williams,Mobile App Development,60,4.8,6,Australia,"Flutter, React Native, Java"
+6,Frank Moore,Web Development,45,4.7,4,USA,"HTML, CSS, JavaScript, Node.js"
+7,Grace Green,Data Science,80,5.0,8,Germany,"Python, AI, Data Visualization, Deep Learning"
+8,Hannah White,UI/UX Design,55,4.6,5,USA,"Figma, Sketch, Prototyping, Wireframing"
